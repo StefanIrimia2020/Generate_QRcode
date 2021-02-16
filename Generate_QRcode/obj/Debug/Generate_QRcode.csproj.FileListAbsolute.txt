@@ -1,0 +1,12 @@
+D:\Generate_QRcode\Generate_QRcode\bin\Debug\Generate_QRcode.exe.config
+D:\Generate_QRcode\Generate_QRcode\bin\Debug\Generate_QRcode.exe
+D:\Generate_QRcode\Generate_QRcode\bin\Debug\Generate_QRcode.pdb
+D:\Generate_QRcode\Generate_QRcode\bin\Debug\QRCoder.dll
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.csprojAssemblyReference.cache
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.Form1.resources
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.Properties.Resources.resources
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.csproj.GenerateResource.cache
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.csproj.CoreCompileInputs.cache
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.csproj.CopyComplete
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.exe
+D:\Generate_QRcode\Generate_QRcode\obj\Debug\Generate_QRcode.pdb
